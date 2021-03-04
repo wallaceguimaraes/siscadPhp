@@ -1,0 +1,26 @@
+ /* Fonte para as tags table e h2 */  
+ table, h2{  
+    font-family: Arial;  
+  }  
+ 
+  /* Estilização para tag h2 */  
+  h2{  
+    color: blue;  
+    text-shadow: 2px darkgray;  
+  }  
+ 
+  /* Classe para o estilo do cabeçalho da Tabela */  
+  .header{  
+    background: yellowgreen;  
+  } 
+  
+  /* Classe coloca a cor de fundo para zebrar as linhas */  
+  .zebra{  
+    background: lightgray;  
+  } 
+  
+  /* Classe para destacar o conteúdo da coluna */  
+  .destaque{  
+    color: red;  
+    font-weight: bold;  
+  }  

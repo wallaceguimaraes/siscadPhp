@@ -1,0 +1,15 @@
+#loader{
+    position: relative;
+    width: 50px;
+    height: 30px;
+    background-image: url(../resource/carrega.gif);
+    background-position: center;
+    background-repeat: no-repeat;
+    margin-top: 3rem;
+    margin-left: 10.4rem;
+  }
+
+  td{
+    align-items: center;
+
+  }
